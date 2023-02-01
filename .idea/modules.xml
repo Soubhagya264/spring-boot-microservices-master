@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices-master/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/spring-boot-microservices-master/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices-master/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/spring-boot-microservices-master/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices-master/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/spring-boot-microservices-master/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices-master/microservices-new.iml" filepath="$PROJECT_DIR$/spring-boot-microservices-master/microservices-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices-master/order-service/order-service.iml" filepath="$PROJECT_DIR$/spring-boot-microservices-master/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-microservices-master/product-service/product-service.iml" filepath="$PROJECT_DIR$/spring-boot-microservices-master/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-microservices-master.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-microservices-master.iml" />
+    </modules>
+  </component>
+</project>
